@@ -2,7 +2,7 @@
 //  TabBarViewController.swift
 //  PersonsList
 //
-//  Created by Andrey Zhivotov on 14.04.2022.
+//  Created by Andrey Zhivotov on 09.04.2022.
 //
 
 import UIKit
